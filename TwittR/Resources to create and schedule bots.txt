@@ -1,0 +1,5 @@
+We can learn scheduling from here: https://www.jrwinget.com/post/2019-05-08_create-a-twitter-bot/
+
+Make a bot super fast: https://www.interhacktives.com/2021/03/16/how-to-scrape-open-data-and-tweet-it-using-a-bot-with-r/
+
+Windows task scheduler guide: https://randerson112358.medium.com/create-a-twitter-bot-using-r-5a94f1b1b886

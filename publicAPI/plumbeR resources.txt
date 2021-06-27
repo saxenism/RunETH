@@ -1,0 +1,6 @@
+https://appsilon.com/r-rest-api/
+
+https://www.r-bloggers.com/2020/08/how-to-create-an-api-for-your-r-code/
+
+https://medium.com/analytics-vidhya/easy-api-building-for-data-scientists-with-r-673b381c4ae1
+
