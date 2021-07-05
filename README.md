@@ -1,5 +1,13 @@
 # RunETH | A dApp for an on-chain proof-of-workout based community 
 
+# Video Walkthrough:
+
+
+
+https://user-images.githubusercontent.com/32522659/124522524-35999500-de11-11eb-9b1f-a092a7a9480d.mp4
+
+
+
 ## RoadMap:
 
 * Twitter bot
