@@ -1,0 +1,24 @@
+{
+  "name": "RunETH",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "client": "npm run dev --prefix client",
+    "server": "nodemon server.js --ignore 'client/'",
+    "dev": "concurrently \"npm run server\" \"npm run client\" "
+  },
+  "proxy": "http://localhost:5000",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "body-parser": "^1.19.0",
+    "concurrently": "^6.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.9"
+  }
+}

@@ -1,0 +1,11 @@
+export const msg = import.meta.env.VITE_NUMBER_YO;
+
+// export const credentials = {
+//     apiKey: import.meta.env.VITE_API_KEY,
+//     apiSecret: import.meta.env.VITE_API_SECRET,
+//     jwt: import.meta.env.VITE_JWT,
+// }
+
+// VITE_JWT="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiJjODgxYjY4OC1mMWIwLTRlNDMtYjU0Zi1kZWEwNzc1NDc5NmEiLCJlbWFpbCI6ImI0MTcwMzNAaWlpdC1iaC5hYy5pbiIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImlkIjoiRlJBMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2V9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiJiZTdhZmQ2NGIwNGU3MjVjMWM0NiIsInNjb3BlZEtleVNlY3JldCI6IjMzZDZiOTI3MGI2OTliYWExZmM0NWQxYzdmODRjMTAxMTYxYTU2MmYxMjE3Y2U1ZWJmMGU4NDRjZjY3ZjA2ZjQiLCJpYXQiOjE2MjUzMTg4NTN9.hOZynvP_9kSUFLoZiJ78QGVR7uXmOU35RlixIeBkBTo";
+// VITE_API_KEY="be7afd64b04e725c1c46";
+// VITE_API_SECRET="33d6b9270b699baa1fc45d1c7f84c101161a562f1217ce5ebf0e844cf67f06f4";
