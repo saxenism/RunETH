@@ -6,7 +6,12 @@
 
 https://user-images.githubusercontent.com/32522659/124522524-35999500-de11-11eb-9b1f-a092a7a9480d.mp4
 
+<br/>
+<br/>
 
+## Diagramatic explanation of RunETH walkthrough
+
+![RunETH Diagram](https://github.com/saxenism/RunETH/blob/8923598f121ceb22f81d01a1b8a00cb2c7fd9603/Workflow.png)
 
 ## RoadMap:
 
