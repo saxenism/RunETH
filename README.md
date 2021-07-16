@@ -1,5 +1,6 @@
 # RunETH | A dApp for an on-chain proof-of-workout based community 
 
+
 # Video Walkthrough:
 
 
@@ -8,6 +9,29 @@ https://user-images.githubusercontent.com/32522659/124522524-35999500-de11-11eb-
 
 <br/>
 <br/>
+
+# Description
+
+Please first of all visit this link for an overview:
+https://drive.google.com/file/d/1ZqsDNwvelsKu3O-jeHG0Tmij53wphGDw/view?usp=sharing
+
+This dApp is a result of my own failed fitness commitments to myself. I was always very motivated to get fit, took on a fitness challenge but dropped out in the middle more often than not. So, this dApp is an on-chain proof-of-workout dApp so that it can help you actually complete your fitness goals.
+
+Users come onto RunETH, and explore the various challenges that people have undertaken. They can commit to a similar challenge or create a new challenge of their own and as proof of their commitment they have to stake some cryptocurrency with RunETH, which will be redeemable only after the challenge duration is over. Users will upload their proof-of-workout (fitness tracker apps from smart watches, smart phones or even time-lapse videos) onto IPFS which will serve as a global accountability system for the users.
+
+With the successful completion, users earn bragging right, *reputation* on RunETH, and also the chance to mint their entire journey as an NFT!! Just how awesome is that, right!?? :D 
+
+# How it's made
+
+The crypto being deposited(currently just cDAI) by the users is being staked using the 88mph v3, currently live on RInkeby test network. Chose 88mph because safety of user's fund was of utmost importance compared to high APYs.
+
+Daily proofs being submitted onto IPFS using pinata.cloud SDK to track daily progress of all participants as well create a system of immutable global accountability system to make sure users reach their goals.
+
+Rarible protocol is being used to configure lazy minting options for the users of all the IPFS hash they are generating throughout the challenge. Revenue sharing being taken advantage of (using royalty option)
+
+Backend: Node.js
+
+Frontend: Svelte
 
 ## Diagramatic explanation of RunETH walkthrough
 
