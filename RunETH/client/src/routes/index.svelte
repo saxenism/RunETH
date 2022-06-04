@@ -1,7 +1,3 @@
-<script>
-	import { fucker } from '../stores.js';
-</script>
-
 <body class="bg-gray-800">
 	<main>
 		<h4 class="text-3xl text-center my-8 text-green-300">Welcome to RunETH</h4>
