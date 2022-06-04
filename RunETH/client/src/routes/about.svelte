@@ -1,5 +1,4 @@
 <script>
-	import { fucker } from '../stores.js';
 	import api from '../../api.js';
 	import axios from 'axios';
 	import { ethers } from 'ethers';
